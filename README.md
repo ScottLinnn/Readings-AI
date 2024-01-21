@@ -8,3 +8,4 @@ It's intentional that it's named "Readings-AI" but not "Papers-AI", because this
 
 - RAG overview: https://pub.towardsai.net/advanced-rag-techniques-an-illustrated-overview-04d193d8fec6
 - Fine-tuning short intro: https://www.superannotate.com/blog/llm-fine-tuning
+- Multimodality: https://huyenchip.com/2023/10/10/multimodal.html
